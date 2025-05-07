@@ -1,0 +1,6 @@
+Version: [FCC Assist 1.1.8], COMMIT: [788ceac7e40dbc378d34e1bc1072e28d2f86c5c2]
+Open device[COM6] successfully
+ERROR: Timeout waiting for device response, please try again!
+
+Sending is successful and the slave mode is entered
+Waiting for connection...
